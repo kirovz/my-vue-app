@@ -1,9 +1,8 @@
 # TagsEditor
 
-## Tech Stack
-
+### Tech Stack
 - Vue.js
 - NodeJS
 - SQL
 
-## Tasks
+### Tasks
